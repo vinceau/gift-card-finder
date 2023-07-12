@@ -1,0 +1,19 @@
+body {
+  font: 16px Arial;
+}
+
+#root {
+    width: 100%;
+    max-width: 900px;
+    text-align: center;
+    margin: auto auto;
+}
+
+#root input {
+    width: 100%;
+    border: 1px solid transparent;
+    background-color: #f1f1f1;
+    font-size: 16px;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+}
