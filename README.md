@@ -1,10 +1,13 @@
 # Ultimate Gift Card Finder
 
-This websites helps you find all gift cards that match a particular store. So if you're looking to make a purchase from Officeworks for example, searching for "office" shows that you can purchase Ultimate Everyone, Home, Kids, Students, and Teens gift cards.
+This websites helps you find all [Ultimate gift cards](https://www.ultimategiftcards.com.au/) that match a particular store. So if you're looking to make a purchase from Officeworks for example, searching for "office" shows that you can purchase Ultimate Everyone, Home, Kids, Students, and Teens gift cards.
 
 ![Screenshot](./screenshot.png)
 
-There's also a CLI version of the same tool which let's you search for multiple stores.
+[Click here](https://vinceau.github.io/gift-card-finder) to visit the website.
+
+
+There's also a CLI version of the same tool which let's you search for multiple stores. See below for usage details.
 
 ## CLI Usage
 
